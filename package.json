@@ -1,0 +1,18 @@
+{
+  "name": "meu-portifolio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "sass --watch style.scss ./assets/css/style.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "jquery": "^3.7.1",
+    "owl.carousel": "^2.3.4",
+    "swiper": "^11.2.8"
+  }
+}
