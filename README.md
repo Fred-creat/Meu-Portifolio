@@ -86,7 +86,7 @@ O projeto está organizado da seguinte forma:
 Fredson Maikon de Souza Lemos
 
 
-LinkedIn: www.linkedin.com/in/fredsonlemos.
+LinkedIn: www.linkedin.com/in/fredson-lemos.
 
 GitHub: https://github.com/Fred-creat
 
